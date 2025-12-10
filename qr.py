@@ -2,7 +2,7 @@ import qrcode
 import matplotlib.pyplot as plt
 
 # 1. Generate the QR code
-data = "Fuck OFF!!!"
+data = "Hello From YUVABALAJI!!"
 img = qrcode.make(data)
 
 # 2. Save the QR code as an image
